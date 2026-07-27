@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 75375,
+    "ip": "floppynetwork.aternos.me",
+    "port": 60132,
     "version": "26.2"
   },
   "position": {
